@@ -1,5 +1,9 @@
- # Ayrton Lacerda
-
+ ### Ayrton Lacerda
+ [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UC2Av8JCGnYCT7M5CxG86ivQ)
+ [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayrton-lacerda-60ab43171/)
+ <br/>
+ 
+ ---
 
 ![Remix](https://img.shields.io/badge/remix-2F3134?style=for-the-badge&logo=remix&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
